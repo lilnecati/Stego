@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lilnecati/Cat-tools/main/banner2.png" alt="Cat Tools Banner" width="600">
+  <img src="https://raw.githubusercontent.com/lilnecati/Stego/main/banner2.png" alt="Cat Tools Banner" width="600">
 </p>
 
 > 🔍 CTF yarışmaları ve güvenlik testleri için geliştirilmiş, kapsamlı steganografi analiz aracı.
@@ -48,8 +48,8 @@
 
 1. Repoyu klonlayın:
    ```bash
-   git clone https://github.com/lilnecati/cat-tools.git
-   cd cat-tools
+   git clone https://github.com/lilnecati/Stego.git
+   cd Stego
    ```
 
 2. Sanal ortam oluşturun (önerilen):
