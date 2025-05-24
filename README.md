@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Stars](https://img.shields.io/github/stars/lilnecati/Stego)
+![Contributors](https://img.shields.io/github/contributors/lilnecati/Stego)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lilnecati/Stego/main/banner2.png" alt="Cat Tools Banner" width="600">
